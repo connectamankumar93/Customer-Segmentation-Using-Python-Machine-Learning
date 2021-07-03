@@ -1,6 +1,6 @@
 # Customer Segmentation using Python & Machine-Learning
 
-The aim of this Project is to classify customer in segments based on their purchasing behavior in Myntra. The project is divided into four parts: 
+The aim of this Project is to classify customer in segments based on their purchasing behavior. The project is divided into four parts: 
 
 Part 1 involves Cohort Analysis (Size Cohort) i.e capturing the data that how many new customers are being acquired every month & how are they behaving for the next 12 months in terms of retention, average buying count. 
 
